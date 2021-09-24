@@ -1,3 +1,4 @@
+# Config data exposed by config server
 
 admin:
   username: admin
